@@ -1,5 +1,7 @@
 # **Rishik Karanjiya (React Native Developer - 2.9 Years)**
 
+## **[Resume](Rishik_Karanjiya.pdf)**
+
 ## **About Me**
 >- I'm a Software engineer with nearly 3 years of experience, I've been crafting mobile apps that are both powerful and easy to use.  
 >- I'm passionate about using technology to make life better for users. Let's connect and explore opportunities to innovate together!  
@@ -13,4 +15,4 @@
 
 ## **Contact Me**
 > [Email](mailto:rkaranjiya2112@gmail.com)  
-> [LinkedIn](https://www.linkedin.com/in/rishik-karanjiya-96714b1a4)  
+> [LinkedIn](https://www.linkedin.com/in/rishik-karanjiya-96714b1a4)
