@@ -13,4 +13,4 @@
 
 ## **Contact Me**
 > [Email](mailto:rkaranjiya2112@gmail.com)  
-> [LinkedIn](www.linkedin.com/in/rishik-karanjiya-96714b1a4)  
+> [LinkedIn](https://www.linkedin.com/in/rishik-karanjiya-96714b1a4)  
